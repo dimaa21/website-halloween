@@ -19,3 +19,5 @@ Welcome to this engaging Halloween-themed website that impresses with its respon
 To <a href="https://dimaa21.github.io/landing-halloween/">explore</a> the website, simply navigate and immerse yourself in the Halloween spirit. 
 
 Feel free to contribute, report issues, or provide feedback. Happy Halloween! 🎃
+
+<a href="preview.png"></a>
