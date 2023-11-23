@@ -16,8 +16,6 @@ Welcome to this engaging Halloween-themed website that impresses with its respon
 - **Beautiful UI :** Compatible with all mobile devices, the website boasts a beautiful and pleasant user interface to enhance your browsing experience.
 
 # Getting Started
-To explore the website, simply navigate to [URL] and immerse yourself in the Halloween spirit!
+To explore the website, simply navigate to <a href="https://dimaa21.github.io/landing-halloween/"> and immerse yourself in the Halloween spirit!
 
 Feel free to contribute, report issues, or provide feedback. Happy Halloween! 🎃
-
-<p><a href="https://dimaa21.github.io/landing-halloween/">Click to see the project</a></p>
