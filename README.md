@@ -20,4 +20,4 @@ To <a href="https://dimaa21.github.io/landing-halloween/">explore</a> the websit
 
 Feel free to contribute, report issues, or provide feedback. Happy Halloween! 🎃
 
-<a href="preview.png"></a>
+![](preview.png)
