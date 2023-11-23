@@ -1,4 +1,4 @@
-# Responsive Halloween Website Using HTML, CSS & JavaScript
+# Adaptive landing-page
 Welcome to this engaging Halloween-themed website that impresses with its responsiveness and creative design. This project is crafted using HTML, CSS, and JavaScript, boasting a range of interesting features.
 
 # Key features
