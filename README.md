@@ -1,14 +1,25 @@
-# Responsive Halloween Website 🎃
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
-### Responsive Halloween Website 🎃
+# Responsive Halloween Website Using HTML, CSS & JavaScript
+Welcome to this engaging Halloween-themed website that impresses with its responsiveness and creative design. This project is crafted using HTML, CSS, and JavaScript, boasting a range of interesting features.
 
-- Responsive Halloween Website Using HTML, CSS & JavaScript.
-- Contains animations when scrolling.
-- It has three color designs (green, red and black)
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+# Key Features
+Scrolling Animations: Enjoy seamless scrolling with captivating animations as you navigate through the content.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+# Three Color Designs
+The website offers three distinct color schemes—green, red, and black—allowing you to choose your preferred visual style.
 
-![halloween](/preview.png)
+# Smooth Section Transitions
+Experience smooth transitions between sections for a comfortable and enjoyable user experience.
+
+# Mobile-First Development
+Initially developed following the Mobile-First methodology, ensuring optimal performance on mobile devices.
+
+# Desktop Compatibility
+Adapted for desktop use without compromising the user experience.
+
+# Beautiful UI
+Compatible with all mobile devices, the website boasts a beautiful and pleasant user interface to enhance your browsing experience.
+
+# Getting Started
+To explore the website, simply navigate to [URL] and immerse yourself in the Halloween spirit!
+
+Feel free to contribute, report issues, or provide feedback. Happy Halloween! 🎃
