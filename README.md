@@ -1,11 +1,11 @@
 # Responsive Halloween Website Using HTML, CSS & JavaScript
 Welcome to this engaging Halloween-themed website that impresses with its responsiveness and creative design. This project is crafted using HTML, CSS, and JavaScript, boasting a range of interesting features.
 
-# Key Features
-Scrolling Animations: Enjoy seamless scrolling with captivating animations as you navigate through the content.
 
-# Three Color Designs
-The website offers three distinct color schemes—green, red, and black—allowing you to choose your preferred visual style.
+<ul><li>Scrolling Animations: Enjoy seamless scrolling with captivating animations as you navigate through the content.</li>
+
+<li>Three Color Designs
+The website offers three distinct color schemes—green, red, and black—allowing you to choose your preferred visual style.</li>
 
 # Smooth Section Transitions
 Experience smooth transitions between sections for a comfortable and enjoyable user experience.
